@@ -34,6 +34,7 @@ def getTweets():
 
 # pick ramdomly from contents
 def rndm(contents):
+        random.seed(datetime.now())
         random_content = random.choice(contents)
         return str(random_content)
 
