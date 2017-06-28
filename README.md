@@ -1,4 +1,4 @@
-# GDI Social Media Scheduler (for Twitter)
+# GDI-SF Social Media Scheduler (for Twitter)
 
 ## What it does
 
@@ -194,3 +194,11 @@ Access Token Secret	is yout `TWITTER_ASECRET`
 
 - https://github.com/lagleki/schedule-post-to-twitter
 - http://jennielees.github.io/full-stack/spread-the-love/
+
+
+### What is GDI SF? Girl Develop It, San Francisco Chapter
+
+Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their everyday lives.
+
+Come code with us! 
+http://meetup.com/Girl-Develop-It-San-Francisco/
